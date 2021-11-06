@@ -6,4 +6,8 @@
     <RootNamespace>_06_11_2021</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\06.11.2021L\06.11.2021L.csproj" />
+  </ItemGroup>
+
 </Project>

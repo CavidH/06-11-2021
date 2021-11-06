@@ -4,9 +4,9 @@ using System.Text;
 
 namespace _06_11_2021
 {
-    class User
+    class Person
     {
-       internal string Name;
+        string Name;
         string Surname;
         int Age;
 
